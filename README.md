@@ -1,7 +1,7 @@
 Hello
 -----
 
-I am some guy on the internet who likes computers, and especially when computers tell other computers to do things.
+I am some guy on the internet who makes tools that teach computers to do computer things on other computers.
 
 You can find here:
 
